@@ -1,0 +1,7 @@
+{
+  "name": "ResileNet Crisis Dashboard",
+  "description": "A Soft UI crisis response dashboard featuring a floating island aesthetic, real-time incident tracking, and mesh network monitoring.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
